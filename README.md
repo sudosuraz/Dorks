@@ -3,32 +3,59 @@ Collection of dorks used in different fields of cyber security
 #Bug Bounty Find The Targets
 ##List of Bug Bounty Dorks
     inurl /bug bounty
+    
     inurl : / security
+    
     inurl:security.txt
+    
     inurl:security "reward"
+    
     inurl : /responsible disclosure
+    
     inurl : /responsible-disclosure/ reward
+    
     inurl : / responsible-disclosure/ swag
+    
     inurl : / responsible-disclosure/ bounty
+    
     inurl:'/responsible disclosure' hoodie
+    
     responsible disclosure swag r=h:com
+    
     responsible disclosure hall of fame
+    
     responsible disclosure europe
+    
     responsible disclosure white hat
+    
     white hat program
+    
     insite:"responsible disclosure" -inurl:nl
+    
     intext responsible disclosure
+    
     site eu responsible disclosure
+    
     site .nl responsible disclosure
+    
     site responsible disclosure
+    
     responsible disclosure:sites
+    
     responsible disclosure r=h:nl
+    
     responsible disclosure r=h:uk
+    
     responsible disclosure r=h:eu
+    
     responsible disclosure bounty r=h:nl
+    
     responsible disclosure bounty r=h:uk
+    
     responsible disclosure bounty r=h:eu
+    
     responsible disclosure swag r=h:nl
+    
     responsible disclosure swag r=h:uk
     responsible disclosure swag r=h:eu
     responsible disclosure reward r=h:nl
